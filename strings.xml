@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">percobaan1_F55121038</string>
+    <string name="lenght">Panjang</string>
+    <string name="widht">lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="Result">Hasil</string>
+</resources>
